@@ -1,0 +1,34 @@
+Basic Discription of java:-
+      Java is a high-level, object-oriented programming language used to develop software applications such as web applications, mobile apps, desktop programs, and enterprise systems.
+
+JDB (Java Development Kit):-
+  JDB (Java Debugger) is a command-line debugging tool used to find and fix errors (bugs) in Java programs. 🐞
+  It is part of the JDK (Java Development Kit).
+
+  1️⃣ Purpose of JDB
+        JDB helps programmers to:
+        Detect errors in a program
+        Stop the program at a specific line
+        Check variable values
+        Execute code step by step
+        This process is called debugging.
+          
+JRE (Java Runtime Environment):-
+    JRE is the environment required to run Java programs.
+    It provides the libraries and components needed to execute Java applications. ☕
+
+    1️⃣ Components of JRE
+        JRE mainly contains:
+        1. JVM (Java Virtual Machine)
+          Executes the Java bytecode.
+        
+        2. Core Class Libraries
+          Provides predefined classes used in Java programs.
+        
+        3. Supporting Files
+          Required to run Java applications.
+
+JVM(Java Virtual Machine):-
+    JVM is a virtual machine that runs Java programs.
+    It converts Java bytecode into machine code so the computer can execute it. ☕
+    
