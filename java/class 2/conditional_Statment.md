@@ -1,11 +1,11 @@
-Conditional Statment:-
+# Conditional Statment
   A conditional statement is used to make decisions in a program.
   It executes different blocks of code depending on whether a condition is true or false.
 
   
-Types of Conditional Statements in Java
-    1️⃣ if Statement
-          Executes a block of code only if the condition is true.
+## Types of Conditional Statements in Java
+  ### 1️⃣ if Statement
+  Executes a block of code only if the condition is true.
         
         Example
             class Test {
@@ -18,8 +18,8 @@ Types of Conditional Statements in Java
                 }
             }
     
-    2️⃣ if-else Statement
-        Used when there are two possible conditions.
+  ### 2️⃣ if-else Statement
+  Used when there are two possible conditions.
         
         Example
             class Test {
@@ -35,8 +35,8 @@ Types of Conditional Statements in Java
                 }
             }
     
-    3️⃣ if-else if-else Statement
-        Used when there are multiple conditions.
+  ### 3️⃣ if-else if-else Statement
+  Used when there are multiple conditions.
         
         Example
             class Test {
@@ -55,8 +55,8 @@ Types of Conditional Statements in Java
                 }
             }
     
-    4️⃣ switch Statement
-        Used when there are many possible values of a variable.
+  ### 4️⃣ switch Statement
+  Used when there are many possible values of a variable.
         
         Example
             class Test {
