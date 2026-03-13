@@ -5,19 +5,21 @@ The Paragraph tag is used in HTML to write paragraphs of text.
     <p> This is a paragraph. </p>
 
 ### Example
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <title>Paragraph Example</title>
-    </head>
-    <body>
-    
-    <p>This is my first paragraph.</p>
-    
-    <p>This is my second paragraph.</p>
-    
-    </body>
-    </html>
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Paragraph Example</title>
+</head>
+<body>
+
+<p>This is my first paragraph.</p>
+
+<p>This is my second paragraph.</p>
+
+</body>
+</html>
+```
 
 #### Output
 This will show two separate paragraphs on a webpage.
@@ -35,13 +37,6 @@ This will show two separate paragraphs on a webpage.
     <p>
     HTML stands for HyperText Markup Language.
     It is used to structure content on the web.
-    </p>
-
-## Using <br> inside a paragraph
-    <p>
-    Hello <br>
-    Welcome to HTML <br>
-    Learning.
     </p>
     
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -86,3 +81,17 @@ Used to make text italic.
 ### Example
     <i>This text is italic</i>
 
+--------------------------------------------------------------------------------------------------------------------------------------
+
+# Horizontal Line Tag
+Used to draw a horizontal line.
+
+### Syntax
+    <hr>
+
+### Example
+```html
+<p>HTML</p>
+<hr>
+<p>CSS</p>
+```
