@@ -84,6 +84,8 @@ Example:
 <a href="https://google.com">Go to Google</a>
 ```
 
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### HTML Attributes
 Attributes give extra information to tags.
 
@@ -109,7 +111,44 @@ Attributes give extra information to tags.
 ✔ Works with all browsers
 ✔ Used for building websites
 ✔ Supports multimedia
-<a href="https://www.google.com">Open Google</a>
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Comments
+Comments are used to add notes or explanations in the HTML code.  
+They are not displayed in the browser, but they help developers understand the code.
+
+### Syntax
+  <!-- This is a comment -->
+
+### Example
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<!-- This is a heading -->
+<h1>Welcome to My Website</h1>
+
+<!-- This is a paragraph -->
+<p>This is my first webpage.</p>
 
 </body>
 </html>
+```
+
+#### In this code:
+- The text inside <!-- --> is a comment
+- It will not appear on the webpage
+
+## Uses of Comments
+✔ Explain the code
+✔ Make code easier to understand
+✔ Temporarily hide code
+
+### Example: Commenting Code
+```html
+<!-- <p>This paragraph is hidden</p> -->
+```
+This paragraph will not appear because it is inside a comment.
+
