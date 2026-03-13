@@ -22,8 +22,6 @@ The Paragraph tag is used in HTML to write paragraphs of text.
 #### Output
 This will show two separate paragraphs on a webpage.
 
-------------------------------------------------------------------------------------------------------------------------------------------
-
 ## Important Points
 - <p> is the opening tag
 - </p> is the closing tag
@@ -45,6 +43,46 @@ This will show two separate paragraphs on a webpage.
     Welcome to HTML <br>
     Learning.
     </p>
+    
+------------------------------------------------------------------------------------------------------------------------------------------
 
-
+# Line Break Tag
 <br> creates a line break.
+Used to break a line.
+
+### Syntax
+    <br>
+    
+### Example
+    Hello <br> World
+
+
+#### Output:
+```nginx
+Hello
+World
+```
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+# Bold Tag
+Used to make text bold.
+
+### Syntax    
+    <b>Text</b>
+
+### Example
+    <b>Important Text</b>
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+# Italic Tag
+Used to make text italic.
+
+### Syntax
+    <i>Text</i>
+
+
+### Example
+    <i>This text is italic</i>
+
